@@ -1,0 +1,14 @@
+{
+    "type": "application",
+    "id": "com.djailla.paperless",
+    "version": "1.0.0-dev",
+    "depends": [
+        "com.ubuntu.trusty-lamp-1.0"
+    ],
+    "startup_mode": "auto",
+    "display_mode": "tab",
+    "redirect_mode": "custom",
+    "network_ports": {
+        "WEB_UI": 4242
+    }
+}

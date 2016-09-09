@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Paperless"
+    },
+    "description_short": {
+        "en": "Paperless : Scan, index, and archive all of your paper documents"
+    },
+    "supported_languages": [
+        "en"
+    ],
+    "categories": [
+        "utilities"
+    ],
+    "publisher_name": "Djailla",
+    "publisher_contact": "bastien.vallet@gmail.com",
+    "website_url": "https://github.com/Djailla/nas-os-paperless/"
+}
