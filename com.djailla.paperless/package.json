@@ -3,7 +3,7 @@
     "id": "com.djailla.paperless",
     "version": "1.0.0-dev",
     "depends": [
-        "com.ubuntu.trusty-lamp-1.0"
+        "com.debian.jessie-lamp-1.0"
     ],
     "startup_mode": "auto",
     "display_mode": "tab",
